@@ -1,6 +1,6 @@
 # Hi, I'm [Sajedur Rahman Sajid] 👋
 
-![Profile Image](https://via.placeholder.com/800x400) <!-- Replace with your profile image link -->
+![Profile Image]([https://via.placeholder.com](https://drive.google.com/file/d/1-a1Sf0iqMjwBR8oNSoR1bmEOl3x8srWL/view?usp=drive_link/800x400) <!-- Replace with your profile image link -->
 
 ---
 
