@@ -23,10 +23,12 @@
 
 ## 🐱 A little more about me...
 
-- 🎓 Computer Science Graduate  
-- 🧠 I’m currently learning Reinforcement Learning, LLM  
-- 🧪 I’m currently working on Medical NER  
-- 🎮 Love playing games  
+👨‍💻 Flutter Developer & AI Explorer from 🇧🇩  
+🎓 CSE Student (6th Semester) | CGPA: 3.90  
+🧠 Exploring AI, ML, NLP, LLMs, Reinforcement Learning & Image Processing  
+🥭 Researching Mango Classification & building a mobile app to identify mango types  
+🌏 Learning Japanese 🇯🇵 — aspiring to work in Japan’s tech industry  
+🎮 Gamer at heart | 🚀 Passionate about turning ideas into impactful apps 
 
 ---
 
