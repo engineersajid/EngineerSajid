@@ -15,8 +15,6 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=engineersajid&show_icons=true&theme=dark&count_private=true&hide_rank=false&card_width=400" height="200px" />
   &nbsp;&nbsp;&nbsp;
