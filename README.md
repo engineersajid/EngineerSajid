@@ -7,14 +7,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/fuerostic">
-    <img src="https://img.shields.io/github/followers/fuerostic?label=Followers&style=social" alt="GitHub followers" />
+  <a href="https://github.com/engineersajid">
+    <img src="https://img.shields.io/github/followers/engineersajid?label=Followers&style=social" alt="GitHub followers" />
   </a>
-  <a href="https://github.com/fuerostic">
-    <img src="https://img.shields.io/github/stars/fuerostic?label=Stars&style=social" alt="GitHub stars" />
+  <a href="https://github.com/engineersajid">
+    <img src="https://img.shields.io/github/stars/engineersajid?label=Stars&style=social" alt="GitHub stars" />
   </a>
-  <a href="https://github.com/fuerostic">
-    <img src="https://img.shields.io/badge/GitHub-fuerostic-blue?style=flat&logo=github" alt="fuerostic GitHub" />
+  <a href="https://github.com/engineersajid">
+    <img src="https://img.shields.io/badge/GitHub-engineersajidblue?style=flat&logo=github" alt="engineersajid GitHub" />
   </a>
 </p>
 
