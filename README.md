@@ -1,8 +1,25 @@
-# Hi, I'm Md Sajedur Rahman 👋
+<h1 align="center"> Hi, I'm Md Sajedur Rahman 👋</h1>
 
-![Banner](https://raw.githubusercontent.com/engineersajid/engineersajid/main/banner.png)
+<p align="center">
+  <img src="https://i.imgur.com/VpnsZg5.gif" alt="retro futuristic banner" />
+</p>
 
-![Profile views](https://komarev.com/ghpvc/?username=engineersajid&color=green)
+<p align="center">
+  <a href="https://github.com/fuerostic">
+    <img src="https://img.shields.io/github/followers/fuerostic?label=Followers&style=social" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/fuerostic">
+    <img src="https://img.shields.io/github/stars/fuerostic?label=Stars&style=social" alt="GitHub stars" />
+  </a>
+  <a href="https://github.com/fuerostic">
+    <img src="https://img.shields.io/badge/GitHub-fuerostic-blue?style=flat&logo=github" alt="fuerostic GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fuerostic&color=brightgreen" alt="Profile views" />
+</p>
+
 
 ## 🐱 A little more about me...
 
