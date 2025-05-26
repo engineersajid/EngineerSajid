@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Md Sajedur Rahman 👋</h1>
 
 <p align="center">
-  <img src="space-traveler-horizon-ai-1920x1080-v0-es31zqkvpz2f1.webp" alt="retro futuristic banner" />
+  <img src="" alt="retro futuristic banner" />
 </p>
 
 <p align="center">
@@ -128,7 +128,7 @@
 
 
 
-## 🖥️ Operating Systems
+## 🖥️ Operating System Experience
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
