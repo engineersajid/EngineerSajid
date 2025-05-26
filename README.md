@@ -19,9 +19,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=engineersajid&theme=dark)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engineersajid&layout=compact&theme=dark)
 
----
 
-## 🌐 Developer / Forums
 
 ## 🌐 Developer / Forums
 
@@ -35,7 +33,6 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com)
 
 
----
 
 ## 💻 Languages
 
@@ -50,7 +47,6 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
----
 
 ## 📚 Frameworks
 
@@ -62,7 +58,7 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
----
+
 
 ## 🗄️ Databases
 
@@ -70,7 +66,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
+
 
 ## 🧠 IDEs
 
@@ -84,7 +80,7 @@
 ![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
----
+
 
 ## 🖥️ Operating Systems
 
