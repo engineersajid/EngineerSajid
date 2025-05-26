@@ -28,7 +28,7 @@
 🥭 Researching Mango Classification & building a mobile app to identify mango types  
 🌏 Learning Japanese 🇯🇵 — aspiring to work in Japan’s tech industry  
 🎮 Gamer at heart | 🚀 Passionate about turning ideas into impactful apps  
-📺 YouTuber — [Explorer Motivation](https://www.youtube.com/@explorermotivation)
+
 
 ---
 
@@ -43,6 +43,16 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=engineersajid&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="820px" height="200px" />
 </p>
+
+
+
+## 🌐 Socials:
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/programmer.sajid)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/developersajid)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/developersajid)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@explorermotivation)
+
 
 
 
