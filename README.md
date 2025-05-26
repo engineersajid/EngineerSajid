@@ -1,6 +1,4 @@
-<h1 align="center">Hi, I'm Md Sajedur Rahman 👋</span></h1>
-
-
+<h1 align="center">Hi, I'm Md Sajedur Rahman 👋</h1>
 
 <p align="center">
   <img src="https://i.imgur.com/VpnsZg5.gif" alt="retro futuristic banner" />
@@ -14,12 +12,12 @@
     <img src="https://img.shields.io/github/stars/engineersajid?label=Stars&style=social" alt="GitHub stars" />
   </a>
   <a href="https://github.com/engineersajid">
-    <img src="https://img.shields.io/badge/GitHub-engineersajidblue?style=flat&logo=github" alt="engineersajid GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-engineersajid-blue?style=flat&logo=github" alt="engineersajid GitHub" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fuerostic&color=brightgreen" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=engineersajid&color=brightgreen" alt="Profile views" />
 </p>
 
 
