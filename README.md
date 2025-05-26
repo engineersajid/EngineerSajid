@@ -46,6 +46,13 @@
 
 
 
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=engineersajid&theme=algolia&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+
 ## 🌐 Socials:
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/programmer.sajid)
