@@ -48,7 +48,7 @@
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=engineersajid&theme=algolia&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=engineersajid&theme=algolia&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
