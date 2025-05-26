@@ -44,7 +44,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=engineersajid&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="820px" height="200px" />
 </p>
 
----
+
 
 ## 🌐 Developer / Forums
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net)
@@ -57,7 +57,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com)
 
 
----
+
 
 ## 💻 Languages
 
@@ -72,7 +72,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
----
+
 
 ## 📚 Frameworks
 
@@ -85,7 +85,7 @@
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
 
----
+
 
 ## 🗄️ Databases & Web Platforms
 
@@ -96,7 +96,7 @@
 ![Wix](https://img.shields.io/badge/Wix-000000?style=for-the-badge&logo=wix&logoColor=white)
 
 
----
+
 
 ## 🧠 IDEs
 
@@ -111,7 +111,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 
----
+
 
 ## 🖥️ Operating Systems
 
