@@ -16,10 +16,10 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=engineersajid&color=brightgreen" alt="Profile views" />
-</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=engineersajid&label=Profile%20views&color=brightgreen" alt="Profile views" />
+</p>
 
 ## 🐱 A little more about me...
 
