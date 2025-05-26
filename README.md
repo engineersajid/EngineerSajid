@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Md Sajedur Rahman 👋</h1>
 
 <p align="center">
-  <img src="" alt="retro futuristic banner" />
+  <img src="channels4_banner.jpg" alt="retro futuristic banner" />
 </p>
 
 <p align="center">
