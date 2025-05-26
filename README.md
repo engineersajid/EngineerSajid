@@ -16,8 +16,9 @@
 ## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=engineersajid&show_icons=true&theme=dark&count_private=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=engineersajid&theme=dark)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engineersajid&layout=compact&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=engineersajid&theme=dark)  
+
 
 
 
