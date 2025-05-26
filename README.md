@@ -15,13 +15,16 @@
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=engineersajid&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" style="margin-right: 20px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engineersajid&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=engineersajid&show_icons=true&theme=dark&count_private=true&hide_rank=false&card_width=400" height="200px" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engineersajid&layout=compact&theme=dark&card_width=400" height="200px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=engineersajid&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=engineersajid&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="820px" height="200px" />
 </p>
 
 
