@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Md Sajedur Rahman 👋</h1>
 
 <p align="center">
-  <img src="EngineerSajid/space-traveler-horizon-ai-1920x1080-v0-es31zqkvpz2f1.webp" alt="retro futuristic banner" />
+  <img src="space-traveler-horizon-ai-1920x1080-v0-es31zqkvpz2f1.webp" alt="retro futuristic banner" />
 </p>
 
 <p align="center">
