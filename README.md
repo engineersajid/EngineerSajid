@@ -126,19 +126,19 @@
 ## 🚀 Recent Projects
 
 <p align="center">
-  <a href="https://github.com/engineersajid/project-1">
+  <a href="https://github.com/engineersajid/faceReactionImageWithTurtle">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=engineersajid&repo=project-1&theme=radical" alt="Project 1" />
   </a>
-  <a href="https://github.com/engineersajid/project-2">
+  <a href="https://github.com/engineersajid/sixSemesterNote">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=engineersajid&repo=project-2&theme=radical" alt="Project 2" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/engineersajid/project-3">
+  <a href="https://github.com/engineersajid/tictactoeweb">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=engineersajid&repo=project-3&theme=radical" alt="Project 3" />
   </a>
-  <a href="https://github.com/engineersajid/project-4">
+  <a href="https://github.com/engineersajid/basicCalculatorApp">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=engineersajid&repo=project-4&theme=radical" alt="Project 4" />
   </a>
 </p>
