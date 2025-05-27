@@ -60,26 +60,6 @@
 
 
 
-## 🚀 Recent Projects
-
-<p align="center">
-  <a href="https://github.com/engineersajid/project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=engineersajid&repo=project-1&theme=radical" alt="Project 1" />
-  </a>
-  <a href="https://github.com/engineersajid/project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=engineersajid&repo=project-2&theme=radical" alt="Project 2" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/engineersajid/project-3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=engineersajid&repo=project-3&theme=radical" alt="Project 3" />
-  </a>
-  <a href="https://github.com/engineersajid/project-4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=engineersajid&repo=project-4&theme=radical" alt="Project 4" />
-  </a>
-</p>
-
 
 
 
@@ -141,6 +121,28 @@
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
 [![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macos/)
+
+
+## 🚀 Recent Projects
+
+<p align="center">
+  <a href="https://github.com/engineersajid/project-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=engineersajid&repo=project-1&theme=radical" alt="Project 1" />
+  </a>
+  <a href="https://github.com/engineersajid/project-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=engineersajid&repo=project-2&theme=radical" alt="Project 2" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/engineersajid/project-3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=engineersajid&repo=project-3&theme=radical" alt="Project 3" />
+  </a>
+  <a href="https://github.com/engineersajid/project-4">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=engineersajid&repo=project-4&theme=radical" alt="Project 4" />
+  </a>
+</p>
+
 
 
 
