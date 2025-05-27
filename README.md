@@ -21,7 +21,8 @@
   <img src="https://komarev.com/ghpvc/?username=engineersajid&label=Profile%20views&color=brightgreen" alt="Profile views" />
 </p>
 
-## <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="40px"> A little more about me...
+
+## 🐱 A little more about me...
 
 
 👨‍💻 Flutter Developer & AI Explorer from 🇧🇩  
