@@ -1,4 +1,5 @@
-<h1 align="center">Hi, I'm Md Sajedur Rahman 👋</h1>
+<h1 align="center">Hi, I'm Md Sajedur Rahman <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px"></h1>
+
 
 <p align="center">
   <img src="channels4_banner.jpg" alt="retro futuristic banner" />
@@ -20,7 +21,8 @@
   <img src="https://komarev.com/ghpvc/?username=engineersajid&label=Profile%20views&color=brightgreen" alt="Profile views" />
 </p>
 
-## 🐱 A little more about me...
+## <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="40px"> A little more about me...
+
 
 👨‍💻 Flutter Developer & AI Explorer from 🇧🇩  
 🎓 CSE Student (6th Semester) | CGPA: 3.90  
