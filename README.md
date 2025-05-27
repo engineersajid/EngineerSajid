@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="channels4_banner.jpg" alt="retro futuristic banner" height="250px"/>
+  <img src="channels4_banner.jpg" alt="retro futuristic banner"/>
 </p>
 
 <p align="center">
