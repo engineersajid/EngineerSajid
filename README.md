@@ -64,7 +64,7 @@
 
 
 ## 🌐 Developer / Forums
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)]([https://www.researchgate.net](https://www.researchgate.net/profile/Md-Sajedur-Rahman-3?ev=hdr_xprf&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImxvZ2luIiwicGFnZSI6Im1lc3NhZ2VzIiwicHJldmlvdXNQYWdlIjoibWVzc2FnZXMiLCJwb3NpdGlvbiI6Imdsb2JhbEhlYWRlciJ9fQ))
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)]([https://www.researchgate.net](https://www.researchgate.net/profile/Md-Sajedur-Rahman-3)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com)
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/developersajid)
