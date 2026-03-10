@@ -26,7 +26,7 @@
 
 
 👨‍💻 Flutter Developer & AI Explorer from 🇧🇩  
-🎓 CSE Student (6th Semester) | CGPA: 3.90  
+🎓 CSE Student (final Semester) | CGPA: 3.92  
 🧠 Exploring AI, ML, NLP, LLMs, Reinforcement Learning & Image Processing  
 🥭 Researching Mango Classification & building a mobile app to identify mango types  
 🌏 Learning Japanese 🇯🇵 — aspiring to work in Japan’s tech industry  
