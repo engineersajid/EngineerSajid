@@ -144,7 +144,17 @@
   </a>
 </p>
 
+## 📊 GitHub Summary
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=engineersajid&theme=dark" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=engineersajid&theme=dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=engineersajid&theme=dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=engineersajid&theme=dark" width="32%" />
+</p>
 
 
 Thanks for visiting my profile! 🚀  
