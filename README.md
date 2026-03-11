@@ -43,19 +43,9 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@explorermotivation)
 ---
 
-## 📊 GitHub Stats
-
+## 📊 Profile Strek
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=engineersajid&show_icons=true&theme=dark&count_private=true" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engineersajid&layout=compact&theme=dark" height="180px" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=engineersajid&theme=dark" width="820px" height="180px" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=engineersajid&theme=dracula" width="820px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=engineersajid&theme=dracula" width="1080px" />
 </p>
 
 
