@@ -43,11 +43,10 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@explorermotivation)
 ---
 
-## 📊 Profile Strek
+## 📊 Profile Streak
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=engineersajid&theme=dracula" width="1080px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=engineersajid&theme=dark" width="1080px" />
 </p>
-
 
 
 
